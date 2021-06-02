@@ -1,6 +1,6 @@
 
 import streamlit as st
-import socket
+import websocket
 import termcolor
 
 
